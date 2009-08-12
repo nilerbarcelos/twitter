@@ -1,0 +1,2 @@
+<strong><%= render :partial => "message_form" %></strong>
+<%= render :partial => @posts %>
